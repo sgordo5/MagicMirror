@@ -1,0 +1,2413 @@
+[
+    {
+        "category": "Funny",
+        "riddles": [
+            {
+                "question": "Why did the bicycle fall over?",
+                "answer": "Because it was two-tired"
+            },
+            {
+                "question": "What has four wheels and flies?",
+                "answer": "A garbage truck"
+            },
+            {
+                "question": "Why did the math book look sad?",
+                "answer": "Because it had too many problems"
+            },
+            {
+                "question": "Why can't you trust an atom?",
+                "answer": "Because they make up everything"
+            },
+            {
+                "question": "Why was the baby strawberry crying?",
+                "answer": "Because its parents were in a jam"
+            },
+            {
+                "question": "Why don't oysters share their pearls?",
+                "answer": "Because they're shellfish"
+            },
+            {
+                "question": "Why did the scarecrow win an award?",
+                "answer": "Because he was outstanding in his field"
+            },
+            {
+                "question": "Why don't eggs tell jokes?",
+                "answer": "They might crack up"
+            },
+            {
+                "question": "Why do cows wear bells?",
+                "answer": "Because their horns don't work"
+            },
+            {
+                "question": "What did one plate say to the other?",
+                "answer": "Lunch is on me"
+            },
+            {
+                "question": "What do you call fake spaghetti?",
+                "answer": "An impasta"
+            },
+            {
+                "question": "Why don't skeletons fight each other?",
+                "answer": "They don't have the guts"
+            },
+            {
+                "question": "Why did the tomato turn red?",
+                "answer": "Because it saw the salad dressing"
+            },
+            {
+                "question": "Why did the student eat his homework?",
+                "answer": "Because the teacher said it was a piece of cake"
+            },
+            {
+                "question": "Why can't your nose be 12 inches long?",
+                "answer": "Because then it would be a foot"
+            },
+            {
+                "question": "What do you call a bear with no teeth?",
+                "answer": "A gummy bear"
+            },
+            {
+                "question": "What's orange and sounds like a parrot?",
+                "answer": "A carrot"
+            },
+            {
+                "question": "Why do seagulls fly over the sea?",
+                "answer": "Because if they flew over the bay, they'd be bagels"
+            },
+            {
+                "question": "Why did the golfer bring an extra pair of socks?",
+                "answer": "In case he got a hole in one"
+            },
+            {
+                "question": "What do you call a fish with no eyes?",
+                "answer": "Fsh"
+            },
+            {
+                "question": "What did the left eye say to the right eye?",
+                "answer": "Between you and me, something smells"
+            },
+            {
+                "question": "Why did the calendar break up with the clock?",
+                "answer": "It found him too time-consuming"
+            },
+            {
+                "question": "Why don't bananas ever feel lonely?",
+                "answer": "Because they hang out in bunches"
+            },
+            {
+                "question": "Why did the music teacher go to jail?",
+                "answer": "Because she got caught with too many notes"
+            },
+            {
+                "question": "Why did the mushroom go to the party?",
+                "answer": "Because he was a fungi"
+            },
+            {
+                "question": "Why did the stadium get hot after the game?",
+                "answer": "Because all the fans left"
+            },
+            {
+                "question": "Why did the bank teller go broke?",
+                "answer": "Because she lost interest"
+            },
+            {
+                "question": "Why did the skeleton go to the party alone?",
+                "answer": "Because he had no body to go with him"
+            },
+            {
+                "question": "Why did the fisherman break up with his girlfriend?",
+                "answer": "Because she was acting fishy"
+            },
+            {
+                "question": "Why do bees have sticky hair?",
+                "answer": "Because they use honeycombs"
+            },
+            {
+                "question": "Why did the coffee file a police report?",
+                "answer": "Because it got mugged"
+            },
+            {
+                "question": "Why did the picture go to jail?",
+                "answer": "Because it was framed"
+            },
+            {
+                "question": "Why don't scientists trust stairs?",
+                "answer": "Because they're always up to something"
+            },
+            {
+                "question": "What do you call a bee that can't make up its mind?",
+                "answer": "A maybe"
+            },
+            {
+                "question": "Why did the man put his iPhone in the blender?",
+                "answer": "Because he wanted apple juice"
+            },
+            {
+                "question": "Why do ghosts like elevators?",
+                "answer": "Because it lifts their spirits"
+            }
+        ]
+    },
+    {
+        "category": "Hard",
+        "riddles": [
+            {
+                "question": "The person who makes it doesn't need it. The person who buys it doesn't use it. The person who uses it doesn't know they're using it. What is it?",
+                "answer": "A coffin"
+            },
+            {
+                "question": "What comes once in a year, twice in a month, four times in a week, and six times in a day?",
+                "answer": "The letter \"E\""
+            },
+            {
+                "question": "What has teeth but cannot bite?",
+                "answer": "A comb"
+            },
+            {
+                "question": "What question can you never answer yes to?",
+                "answer": "Are you asleep yet?"
+            },
+            {
+                "question": "What can run but never walks, has a bed but never sleeps, and has a mouth but never talks?",
+                "answer": "A river"
+            },
+            {
+                "question": "What comes once in a minute, twice in a moment, but never in a thousand years?",
+                "answer": "The letter \"M\""
+            },
+            {
+                "question": "I have keys but no locks. I have space but no room. You can enter, but you can't go outside. What am I?",
+                "answer": "A keyboard"
+            },
+            {
+                "question": "A man writes a letter that must read the same forward, backward, and upside down. What does he write?",
+                "answer": "A palindrome using symmetrical letters, like \"NOON\" or \"WOW.\""
+            },
+            {
+                "question": "What has many needles but doesn't sew?",
+                "answer": "A Christmas tree"
+            },
+            {
+                "question": "What begins with T, ends with T, and has T in it?",
+                "answer": "A teapot"
+            },
+            {
+                "question": "The more you have of me, the less you see. What am I?",
+                "answer": "Darkness"
+            },
+            {
+                "question": "I'm tall when I'm young, and I'm short when I'm old. What am I?",
+                "answer": "A candle"
+            },
+            {
+                "question": "What has one eye but cannot see?",
+                "answer": "A needle"
+            },
+            {
+                "question": "What can you hold in your right hand, but never in your left?",
+                "answer": "Your left hand"
+            },
+            {
+                "question": "What is so fragile that saying its name breaks it?",
+                "answer": "Silence"
+            },
+            {
+                "question": "I fly without wings. I cry without eyes. Wherever I go, darkness flies. What am I?",
+                "answer": "A cloud"
+            },
+            {
+                "question": "The more you take away from me, the bigger I become. What am I?",
+                "answer": "A hole"
+            },
+            {
+                "question": "What begins with the letter 'P,' ends with 'E,' and has thousands of letters inside?",
+                "answer": "A post office"
+            },
+            {
+                "question": "What has a head, a tail, is brown, and has no legs?",
+                "answer": "A penny"
+            },
+            {
+                "question": "I shave every day, but my beard stays the same. What am I?",
+                "answer": "A barber"
+            },
+            {
+                "question": "What has one head, one foot, and four legs?",
+                "answer": "A bed"
+            },
+            {
+                "question": "What comes down but never goes up?",
+                "answer": "Rain"
+            },
+            {
+                "question": "I'm always in front of you but can't be seen. What am I?",
+                "answer": "The future"
+            },
+            {
+                "question": "What starts with \"E,\" ends with \"E,\" and contains only one letter?",
+                "answer": "An envelope"
+            },
+            {
+                "question": "What is harder to catch the faster you run?",
+                "answer": "Your breath"
+            },
+            {
+                "question": "What can you keep after giving to someone else?",
+                "answer": "Your word"
+            },
+            {
+                "question": "I go up but never come down. What am I?",
+                "answer": "Your age"
+            },
+            {
+                "question": "What can be touched but can't be seen?",
+                "answer": "A shadow"
+            },
+            {
+                "question": "I go in hard, come out soft, and I never mind if you blow me. What am I?",
+                "answer": "Bubblegum"
+            },
+            {
+                "question": "What is always coming but never arrives?",
+                "answer": "Tomorrow"
+            },
+            {
+                "question": "What can you break without touching it?",
+                "answer": "A promise"
+            },
+            {
+                "question": "What five-letter word becomes shorter when you add two letters to it?",
+                "answer": "Short"
+            },
+            {
+                "question": "What runs around the whole yard without moving?",
+                "answer": "A fence"
+            },
+            {
+                "question": "What has legs but doesn't walk?",
+                "answer": "A table"
+            },
+            {
+                "question": "What word is spelled wrong in the dictionary?",
+                "answer": "Wrong"
+            },
+            {
+                "question": "What flies without wings?",
+                "answer": "Time"
+            },
+            {
+                "question": "What can you catch but not throw?",
+                "answer": "A cold"
+            },
+            {
+                "question": "The more you take, the more you leave behind. What am I?",
+                "answer": "Footsteps"
+            },
+            {
+                "question": "I am not alive, but I can grow. I don't have lungs, but I need air. What am I?",
+                "answer": "Fire"
+            },
+            {
+                "question": "I have cities, but no houses. I have mountains, but no trees. I have water, but no fish. What am I?",
+                "answer": "A map"
+            },
+            {
+                "question": "What can travel around the world while staying in the same spot?",
+                "answer": "A stamp"
+            }
+        ]
+    },
+    {
+        "category": "Easy",
+        "riddles": [
+            {
+                "question": "What is full of holes yet can still hold a lot of water?",
+                "answer": "A sponge"
+            },
+            {
+                "question": "What has hands but can't clap?",
+                "answer": "A clock"
+            },
+            {
+                "question": "What gets wetter the more it dries?",
+                "answer": "A towel"
+            },
+            {
+                "question": "Why was the spider a great comedian?",
+                "answer": "Because he always had a web of jokes!"
+            },
+            {
+                "question": "What gets sharper the more it is used but becomes dull when ignored?",
+                "answer": "Your mind"
+            },
+            {
+                "question": "What gets whiter the dirtier it becomes?",
+                "answer": "A chalkboard"
+            },
+            {
+                "question": "What goes up and down without moving?",
+                "answer": "A staircase"
+            },
+            {
+                "question": "What comes at the end of a rainbow?",
+                "answer": "The letter \"W\""
+            },
+            {
+                "question": "What belongs to you but is used more by others?",
+                "answer": "Your name"
+            },
+            {
+                "question": "What has a head and a tail but no body?",
+                "answer": "A coin"
+            },
+            {
+                "question": "What has branches but no fruit, trunk, or leaves?",
+                "answer": "A bank"
+            },
+            {
+                "question": "What has legs but never walks and a back but never lies down?",
+                "answer": "A chair"
+            },
+            {
+                "question": "What keeps getting shorter as it burns?",
+                "answer": "A candle"
+            },
+            {
+                "question": "What kind of band never plays music?",
+                "answer": "A rubber band"
+            },
+            {
+                "question": "What flies without fuel?",
+                "answer": "A kite"
+            },
+            {
+                "question": "What grows when given food but dies when given water?",
+                "answer": "Fire"
+            },
+            {
+                "question": "What has ears but doesn't listen?",
+                "answer": "A cornfield"
+            },
+            {
+                "question": "What has no beginning, middle, or end, yet surrounds everything?",
+                "answer": "A circle"
+            },
+            {
+                "question": "What can be worn but never taken off, seen but never touched?",
+                "answer": "A smile"
+            },
+            {
+                "question": "What has a neck but no head and wears a cap?",
+                "answer": "A bottle"
+            },
+            {
+                "question": "What has many rings but never wears them?",
+                "answer": "A tree"
+            },
+            {
+                "question": "What can pass through a door without opening it?",
+                "answer": "Light"
+            },
+            {
+                "question": "Why don't elevators ever feel down?",
+                "answer": "Because they're always going up!"
+            },
+            {
+                "question": "What can be seen but never touched, chased but never caught?",
+                "answer": "A dream"
+            },
+            {
+                "question": "What becomes bigger the more you think about it?",
+                "answer": "A worry"
+            },
+            {
+                "question": "What comes once a year but stays for a lifetime?",
+                "answer": "Your birthday"
+            },
+            {
+                "question": "What gets shorter as the day goes on but grows again in the morning?",
+                "answer": "A shadow"
+            },
+            {
+                "question": "What is not alive but can still be killed?",
+                "answer": "An idea"
+            },
+            {
+                "question": "I can be spread, but I am not butter. What am I?",
+                "answer": "A rumor"
+            }
+        ]
+    },
+    {
+        "category": "Challenging",
+        "riddles": [
+            {
+                "question": "What 7-letter word becomes longer when you remove a letter?",
+                "answer": "Lounger"
+            },
+            {
+                "question": "How many sides does a circle have?",
+                "answer": "Two (inside and outside)"
+            },
+            {
+                "question": "A man was born in 1950 but died in 1945. What's the mystery behind this?",
+                "answer": "He was born in room 1950 of a hospital and died in room 1945."
+            },
+            {
+                "question": "Two men are playing chess. They play five games, and each man wins the same number of games. What's the catch?",
+                "answer": "They played different opponents."
+            },
+            {
+                "question": "What has roots but doesn't need water?",
+                "answer": "A family tree"
+            },
+            {
+                "question": "What is lighter than air but even a hundred people can't lift it?",
+                "answer": "A bubble"
+            },
+            {
+                "question": "What can slash without a sword, spin without an axis, and form a ring without a bell?",
+                "answer": "A whirlpool"
+            },
+            {
+                "question": "You're driving a bus with 10 passengers. At the first stop, 3 get off, and 5 get on. At the next stop, 2 get off, and 7 get on. How old is the bus driver?",
+                "answer": "Your age (You're the driver)"
+            },
+            {
+                "question": "A man pushed his car into a hotel and immediately lost his fortune. What happened?",
+                "answer": "He was playing Monopoly."
+            },
+            {
+                "question": "There was a house with all four walls facing south. A bear walked by the house. What color was the bear?",
+                "answer": "White (because the house is at the North Pole)."
+            },
+            {
+                "question": "A monkey, a bird, and a squirrel are climbing a coconut tree. Who gets the banana first?",
+                "answer": "None! Bananas don't grow on coconut trees!"
+            },
+            {
+                "question": "What's the easiest way to double your money?",
+                "answer": "Fold it in half!"
+            },
+            {
+                "question": "A girl lives in a 10-story building. Every day, she takes the elevator to the 7th floor and walks up 3 flights of stairs. Why doesn't she take the elevator to the 10th floor?",
+                "answer": "She's too short to reach the button for the 10th floor."
+            },
+            {
+                "question": "What's the smallest positive integer that is divisible by all the numbers from 1 to 10?",
+                "answer": "2,520"
+            },
+            {
+                "question": "Two fathers and two sons go fishing. Each one catches a fish, but only three fish are caught. How is this possible?",
+                "answer": "It's a grandfather, father, and son."
+            },
+            {
+                "question": "It starts with fire, then turns to ice. It gives you warmth, then takes its price. It makes you cry, it makes you grow, and teaches things you didn't know. What is it?",
+                "answer": "A breakup"
+            },
+            {
+                "question": "A fluttering heart, a stolen sigh, a wish to stay, a fear to fly. It makes no sense, yet feels so true, the world fades out when they see you. What is it?",
+                "answer": "A crush"
+            },
+            {
+                "question": "Which odd number turns even when you remove one letter?",
+                "answer": "Seven (remove \"S\" to get \"even\")"
+            },
+            {
+                "question": "Which organ in the human body can float in water?",
+                "answer": "A human lung"
+            },
+            {
+                "question": "What is a line you can never reach, no matter how far you travel?",
+                "answer": "The horizon"
+            },
+            {
+                "question": "Who is the \"father\" of four children, each with its own mood and weather, arriving one after the other?",
+                "answer": "A year"
+            },
+            {
+                "question": "What is free but priceless and often unnoticed?",
+                "answer": "Oxygen"
+            },
+            {
+                "question": "What still works when cracked and changes at will but stays the same at heart?",
+                "answer": "A password"
+            },
+            {
+                "question": "What takes your voice without breaking the law?",
+                "answer": "A cough"
+            },
+            {
+                "question": "What can be served on a cold platter but isn't food?",
+                "answer": "Revenge"
+            },
+            {
+                "question": "What gets smaller when standing and bigger when sitting?",
+                "answer": "A lap"
+            },
+            {
+                "question": "What has hands but never holds, a heart but never beats?",
+                "answer": "A deck of cards"
+            },
+            {
+                "question": "Which thing is strong when new but crumbles when old?",
+                "answer": "A bridge"
+            },
+            {
+                "question": "What can be sharp but isn't a knife, written but isn't a book?",
+                "answer": "A wit"
+            },
+            {
+                "question": "What becomes more obvious the more it is hidden?",
+                "answer": "A lie"
+            },
+            {
+                "question": "What catches up faster the more you run from it?",
+                "answer": "Your problems"
+            },
+            {
+                "question": "What is always found in the past but can never be seen in the future?",
+                "answer": "Yesterday"
+            }
+        ]
+    },
+    {
+        "category": "Clever",
+        "riddles": [
+            {
+                "question": "If you throw a red stone into the blue sea, what will it become?",
+                "answer": "Wet"
+            },
+            {
+                "question": "Which room has no walls, doors, or windows, and no one can live inside it?",
+                "answer": "A mushroom"
+            },
+            {
+                "question": "A woman leaves her office and heads to the parking lot but can't find her car. She's not worried-why?",
+                "answer": "She didn't bring her car that day."
+            },
+            {
+                "question": "A plane crashes on the border of two countries. Where do you bury the survivors?",
+                "answer": "You don't bury survivors."
+            },
+            {
+                "question": "There's a one-story house where everything is red-the walls, the doors, the furniture. What color are the stairs?",
+                "answer": "There are no stairs; it's a one-story house."
+            },
+            {
+                "question": "What can be caught but never thrown?",
+                "answer": "A yawn"
+            },
+            {
+                "question": "You're on an island with nothing but a match and three things: a candle, a lamp, and a fireplace. Which do you light first to stay warm?",
+                "answer": "The match"
+            },
+            {
+                "question": "A man looks at a clock and sees the time is 3:15. When he looks again, the time says 8:15, but only an hour has passed. How is this possible?",
+                "answer": "He's looking at the clock in a mirror."
+            },
+            {
+                "question": "Two girls are born on the same day, in the same month, and the same year, but they aren't twins. How is this possible?",
+                "answer": "They're part of a set of triplets (or more)."
+            },
+            {
+                "question": "A man ties a rope around his waist and drops a heavy bucket down a well, but the bucket doesn't reach the water. What did he do wrong?",
+                "answer": "The rope was too short."
+            },
+            {
+                "question": "What has teeth but cannot eat?",
+                "answer": "A zipper"
+            },
+            {
+                "question": "A man walks into a room with three doors. One leads to a room filled with fire, the second to a room full of lions that haven't eaten in years, and the third to a tank of electric eels. Which door does he choose to survive?",
+                "answer": "The room with the lions-they would be long dead after not eating for years."
+            },
+            {
+                "question": "Imagine a boy walking towards a river. He takes exactly three steps, then stops, but his shadow keeps moving. How is that possible?",
+                "answer": "The shadow is cast by the setting sun."
+            },
+            {
+                "question": "A woman leaves home running and turns left three times. When she returns, two masked men are waiting for her. Who are they?",
+                "answer": "The catcher and the umpire-she's playing baseball."
+            },
+            {
+                "question": "A girl drops a teacup, and it shatters into exactly two pieces. She then drops another cup, and it breaks into five. How many cups did she drop in total?",
+                "answer": "Two"
+            },
+            {
+                "question": "You're trapped in a room with two doors. One leads to certain death, the other to freedom, but you don't know which is which. Two guards stand by the doors. One always tells the truth, and one always lies. What do you ask to find the safe door?",
+                "answer": "Ask either guard which door the other would recommend, then choose the opposite door."
+            },
+            {
+                "question": "I am always running but never move. What am I?",
+                "answer": "A refrigerator"
+            },
+            {
+                "question": "What word is spelled incorrectly in every dictionary?",
+                "answer": "Incorrectly"
+            },
+            {
+                "question": "A man is sitting at home, and the lights suddenly go out. He picks up the phone, makes a call, and the lights come back on. What happened?",
+                "answer": "He called the power company to report an outage."
+            },
+            {
+                "question": "A boy kicks a soccer ball, and it travels 10 feet before stopping. It then returns to him without anyone touching it. How?",
+                "answer": "He kicked it against a wall."
+            },
+            {
+                "question": "A woman gives birth to twins who are born on different days and in different years. How is that possible?",
+                "answer": "One was born on December 31, and the other on January 1."
+            },
+            {
+                "question": "You have a glass of water, and you drop something in it that makes the water level go down. What did you drop?",
+                "answer": "A sponge (it absorbs water and reduces the level)."
+            },
+            {
+                "question": "A farmer has a bucket of water, a chicken, and a bag of corn. He needs to cross a river, but he can only take one item at a time. How does he do it without the chicken eating the corn?",
+                "answer": "Take the chicken first, return with the bucket, take the corn, then return for the chicken."
+            },
+            {
+                "question": "A girl is walking along the beach and finds something that follows her everywhere she goes. What is it?",
+                "answer": "Her footprints"
+            },
+            {
+                "question": "A car travels across a bridge at exactly 60 mph without any fuel. How is that possible?",
+                "answer": "The car is being towed or pushed."
+            },
+            {
+                "question": "Two people are running a race. One of them finishes first, but the other is declared the winner. How?",
+                "answer": "It's a relay race, and the second person's team won."
+            },
+            {
+                "question": "A truck driver is going the wrong way down a one-way street and passes by several police officers. Why isn't he stopped?",
+                "answer": "He's walking, not driving."
+            }
+        ]
+    },
+    {
+        "category": "Great",
+        "riddles": [
+            {
+                "question": "What has four eyes but cannot see?",
+                "answer": "Mississippi"
+            },
+            {
+                "question": "What has a tongue but never talks and legs but never walks?",
+                "answer": "A shoe"
+            },
+            {
+                "question": "What can be served but never eaten?",
+                "answer": "A tennis ball"
+            },
+            {
+                "question": "What is often thrown but never picked up?",
+                "answer": "A tantrum"
+            },
+            {
+                "question": "What is always running and never gets tired?",
+                "answer": "Your nose"
+            },
+            {
+                "question": "What is heavy forward but not backward?",
+                "answer": "Ton"
+            },
+            {
+                "question": "What isn't alive yet can hold its breath?",
+                "answer": "A balloon"
+            },
+            {
+                "question": "What has no life but can die?",
+                "answer": "A battery"
+            },
+            {
+                "question": "What do you always carry but cannot see?",
+                "answer": "Your thoughts"
+            },
+            {
+                "question": "What has skin but no bones and can be peeled without screaming?",
+                "answer": "An orange"
+            },
+            {
+                "question": "What gets lighter the more you add to it?",
+                "answer": "A lighthouse"
+            },
+            {
+                "question": "What is as light as a feather but cannot be held for long?",
+                "answer": "Your breath"
+            },
+            {
+                "question": "What can you catch but cannot keep?",
+                "answer": "A sneeze"
+            },
+            {
+                "question": "What is always hungry and must be fed, and if it licks your finger, it might turn red?",
+                "answer": "A knife"
+            },
+            {
+                "question": "What gets smaller each time it takes a bath?",
+                "answer": "A bar of soap"
+            },
+            {
+                "question": "What can be heard and controlled but cannot be seen or touched?",
+                "answer": "Your voice"
+            },
+            {
+                "question": "What can speak without a mouth, walk without legs, and repeat everything you say?",
+                "answer": "An echo"
+            },
+            {
+                "question": "What appears in \"yesterday\" and \"tomorrow\" but not in \"today,\" and shows up in \"danger\" and \"anger\" but not in \"fear\"?",
+                "answer": "The letter \"R\""
+            },
+            {
+                "question": "What is famous for rings but can't wear them and spins far away where no one can hear it?",
+                "answer": "Saturn"
+            },
+            {
+                "question": "What won't break if you drop it from a tall building but may break if you place it in water?",
+                "answer": "Paper"
+            },
+            {
+                "question": "What has 88 keys but cannot open any locks?",
+                "answer": "A piano"
+            },
+            {
+                "question": "What enters the water black and comes out red?",
+                "answer": "A lobster"
+            },
+            {
+                "question": "What lives where the sun shines but dies if the sun shines on it?",
+                "answer": "A vampire"
+            },
+            {
+                "question": "What starts as a small \"worm\" but, when you feed it, becomes a \"dragon\"?",
+                "answer": "A rumor"
+            },
+            {
+                "question": "What cannot swim or float yet helps you cross water?",
+                "answer": "A bridge"
+            },
+            {
+                "question": "What is the only place where \"today\" comes before \"yesterday\"?",
+                "answer": "A dictionary"
+            },
+            {
+                "question": "What can be built up, torn down, feared, or questioned, yet never seen?",
+                "answer": "A reputation"
+            },
+            {
+                "question": "What can you walk on forever without ever getting anywhere?",
+                "answer": "A treadmill"
+            },
+            {
+                "question": "What is at the center of \"gravity,\" and without it, \"gravity\" falls apart?",
+                "answer": "The letter \"V\""
+            },
+            {
+                "question": "What can fly forever yet never leave the ground?",
+                "answer": "Imagination"
+            },
+            {
+                "question": "Which \"mother\" has no children of her own?",
+                "answer": "Mother Earth"
+            }
+        ]
+    },
+    {
+        "category": "Silly",
+        "riddles": [
+            {
+                "question": "What's a snake's favorite subject in school?",
+                "answer": "Hiss-tory"
+            },
+            {
+                "question": "Why was the computer cold?",
+                "answer": "It left its Windows open"
+            },
+            {
+                "question": "Why did the gym close down?",
+                "answer": "It just didn't work out"
+            },
+            {
+                "question": "Why did the orange lose the race?",
+                "answer": "It ran out of juice"
+            },
+            {
+                "question": "Why did the clock break up with its partner?",
+                "answer": "It needed more time"
+            },
+            {
+                "question": "Why did the computer go to the doctor?",
+                "answer": "It caught a virus"
+            },
+            {
+                "question": "Why did the man throw his clock out the window?",
+                "answer": "He wanted to see time fly"
+            },
+            {
+                "question": "Why don't elephants use computers?",
+                "answer": "They're afraid of the mouse"
+            },
+            {
+                "question": "Why did the dog sit in the shade?",
+                "answer": "Because he didn't want to be a hot dog"
+            },
+            {
+                "question": "Why do birds fly south for the winter?",
+                "answer": "Because it's too far to walk"
+            },
+            {
+                "question": "What did the buffalo say to his son when he left for college?",
+                "answer": "Bison"
+            },
+            {
+                "question": "What did one volcano say to the other?",
+                "answer": "\"I lava you\""
+            },
+            {
+                "question": "Why did the bicycle quit its job?",
+                "answer": "It couldn't handle the pressure"
+            },
+            {
+                "question": "Why did the cat eat a light bulb?",
+                "answer": "It wanted a bright idea"
+            },
+            {
+                "question": "Why did the banana go to the doctor?",
+                "answer": "It wasn't peeling well"
+            },
+            {
+                "question": "Why did the invisible man turn down the job offer?",
+                "answer": "He couldn't see himself doing it"
+            },
+            {
+                "question": "Why did the man put his bed in the fireplace?",
+                "answer": "He wanted to sleep like a log"
+            },
+            {
+                "question": "Why did the fish blush?",
+                "answer": "Because it saw the ocean's bottom"
+            },
+            {
+                "question": "Why don't sharks like fast food?",
+                "answer": "They can't catch it"
+            },
+            {
+                "question": "Why did the barber win the race?",
+                "answer": "He knew all the shortcuts"
+            },
+            {
+                "question": "Why did the cat sit on the computer?",
+                "answer": "To keep an eye on the mouse"
+            },
+            {
+                "question": "Why don't chickens tell secrets?",
+                "answer": "Because they're afraid of spilling the beans"
+            },
+            {
+                "question": "Why do cows have hooves instead of feet?",
+                "answer": "Because they lactose"
+            },
+            {
+                "question": "Why did the keyboard refuse to work?",
+                "answer": "It lost its space bar"
+            },
+            {
+                "question": "Why did the shoe break up with the sock?",
+                "answer": "It had too many holes"
+            },
+            {
+                "question": "Why don't ants get sick?",
+                "answer": "Because they have tiny ant-bodies"
+            },
+            {
+                "question": "Why did the thief bring a ladder to the bank?",
+                "answer": "To reach new heights"
+            },
+            {
+                "question": "Why did the astronaut break up with the moon?",
+                "answer": "It had too much space"
+            },
+            {
+                "question": "Why did the egg get promoted?",
+                "answer": "It cracked the case"
+            },
+            {
+                "question": "Why did the astronaut take his lunch outside?",
+                "answer": "He needed some space"
+            },
+            {
+                "question": "Why did the calendar get kicked out of school?",
+                "answer": "It had too many dates"
+            },
+            {
+                "question": "Why did the cow become an artist?",
+                "answer": "It wanted to create moo-sterpieces"
+            },
+            {
+                "question": "Why do bees always hum?",
+                "answer": "Because they don't know the lyrics"
+            },
+            {
+                "question": "Why did the hen bring a notebook to the nest?",
+                "answer": "To keep track of egg-cellent ideas"
+            },
+            {
+                "question": "Why did the cloud take a day off?",
+                "answer": "It was feeling under the weather"
+            },
+            {
+                "question": "Why did the plate go to the party?",
+                "answer": "Because it wanted to dish out compliments"
+            },
+            {
+                "question": "Why did the fridge start telling jokes?",
+                "answer": "It wanted to break the ice"
+            },
+            {
+                "question": "Why did the banana become a judge?",
+                "answer": "It was very appealing"
+            },
+            {
+                "question": "Why did the light bulb get fired?",
+                "answer": "It couldn't stay bright"
+            },
+            {
+                "question": "Why did the umbrella bring a friend to the picnic?",
+                "answer": "It didn't want to be left out in the rain"
+            },
+            {
+                "question": "Why did the ice cube refuse to work?",
+                "answer": "It was too chill"
+            },
+            {
+                "question": "Why did the light switch refuse to gossip?",
+                "answer": "It didn't want to spread current events"
+            }
+        ]
+    },
+    {
+        "category": "Tricky",
+        "riddles": [
+            {
+                "question": "What is bought for eating but is never eaten?",
+                "answer": "A plate or utensil"
+            },
+            {
+                "question": "If an electric train is traveling south, which way does the smoke blow?",
+                "answer": "Electric trains don't produce smoke."
+            },
+            {
+                "question": "There are 10 fish in a tank. Two drown, and four swim away. How many are left in the tank?",
+                "answer": "10 (Fish don't drown, and they can't leave the tank.)"
+            },
+            {
+                "question": "What comes at the end of everything?",
+                "answer": "The letter \"G\""
+            },
+            {
+                "question": "A man drops his phone, and when he picks it up, the screen isn't cracked, but he still can't use it. Why?",
+                "answer": "The battery is dead."
+            },
+            {
+                "question": "A cat is sitting on a roof, but when you call its name, it doesn't move. Why?",
+                "answer": "It's a statue."
+            },
+            {
+                "question": "There's a word that's pronounced the same if you remove four of its five letters. What word is it?",
+                "answer": "Queue (pronounced \"Q\")"
+            },
+            {
+                "question": "I start off empty, but the more you fill me, the lighter I become. What am I?",
+                "answer": "A balloon"
+            },
+            {
+                "question": "A woman walks into a room full of mirrors but doesn't see her reflection. Why not?",
+                "answer": "The mirrors are covered or facing away."
+            },
+            {
+                "question": "What can be cracked, played, and told but never grows old?",
+                "answer": "A joke"
+            },
+            {
+                "question": "Two people start at opposite sides of a bridge and walk toward each other. They both reach the middle but don't pass each other. How?",
+                "answer": "They're walking on two different levels of the bridge."
+            },
+            {
+                "question": "There's a word with three consecutive double letters. What word is it?",
+                "answer": "Bookkeeper"
+            },
+            {
+                "question": "You throw me out when you want to use me and bring me back when you're done. What am I?",
+                "answer": "An anchor"
+            },
+            {
+                "question": "Two men are sitting at a bar. One has twenty beers in front of him, and the other only ten. Who will be more drunk?",
+                "answer": "The one who drinks faster-quantity isn't always the determining factor."
+            },
+            {
+                "question": "What comes once in every second but never in a year?",
+                "answer": "The letter \"S\""
+            },
+            {
+                "question": "A man walks across a room with a glass of water. By the time he reaches the other side, the glass is empty, but he didn't spill it. Why?",
+                "answer": "He drank it."
+            },
+            {
+                "question": "What has a thumb and four fingers but isn't alive?",
+                "answer": "A glove"
+            },
+            {
+                "question": "I am something that no one wants but everyone needs. What am I?",
+                "answer": "Advice"
+            },
+            {
+                "question": "Why did the detective sit on his watch?",
+                "answer": "He wanted to be on time!"
+            }
+        ]
+    },
+    {
+        "category": "Long",
+        "riddles": [
+            {
+                "question": "A man is given three boxes, one of which contains gold. Each box has a statement written on it:\n<ul>\n  <li>Box 1: The gold is not in this box.</li>\n  <li>Box 2: The gold is not in Box 3.</li>\n  <li>Box 3: The gold is in this box.</li>\n</ul>\nOnly one of these statements is true. In which box is the gold?",
+                "answer": "Box 2",
+                "explanation": "<ul>\n  <li>If Box 3's statement is true, then Box 2's statement would also be true, which contradicts the rule that only one statement can be true.</li>\n  <li>If Box 1's statement is true, then Box 2's statement must be false, meaning the gold would be in Box 3, which contradicts Box 3's statement.</li>\n  <li>The only possibility is that Box 2 contains the gold, making only one statement true.</li>\n</ul>"
+            },
+            {
+                "question": "A king has 1,000 bottles of wine, but one is poisoned. He has 10 prisoners and only one night to test which bottle is poisoned before the grand feast. The poison will kill anyone who drinks it within 24 hours. How can the king identify the poisoned bottle using only the 10 prisoners?",
+                "answer": "<ul>\n  <li>Label the bottles in binary (1-1000) and have prisoners drink wine from specific bottles based on thebinary representation.</li>\n  <li>The combination of prisoners who die will reveal the poisoned bottle's number</li>\n</ul>"
+            },
+            {
+                "question": "Three friends check into a hotel room that costs $30. They each contribute $10, totaling $30. Later, the manager realizes the room actually costs $25 and gives the bellboy $5 to return to the guests. The bellboy, however, keeps $2 for himself and gives $1 back to each guest. Now, each guest has effectively paid $9, totaling $27. The bellboy kept $2, which adds up to $29. Where is the missing $1?",
+                "answer": "There is no missing dollar.",
+                "explanation": "The mistake is in how the calculation is framed. The guests paid $27, of which $25 went to the hotel and $2 to the bellboy. The question incorrectly tries to add the $2 to the total, when in reality, it's already included in the $27."
+            },
+            {
+                "question": "A dying father leaves 17 camels to his three sons. His will states:\n<ul>\n  <li>The oldest son gets half of the camels.</li>\n  <li>The middle son gets one-third of the camels.</li>\n  <li>The youngest son gets one-ninth of the camels.</li>\n</ul>The sons are puzzled because 17 cannot be evenly divided in this way. A wise old man offers a solution without harming any camels. What does he do?",
+                "answer": "The wise man lends them one camel to make 18. Now:\n<ul>\n  <li>Theoldest son gets 9 (half of 18).</li>\n  <li>Themiddle songets 6 (one-third of 18).</li>\n  <li>Theyoungest son gets 2 (one-ninth of 18).</li>\n</ul>\nThe total is 17,so the wise man takes back his camel."
+            },
+            {
+                "question": "You have 8 coins, and one is slightly heavier. You have a balance scale but can only use it twice. How do you find the heavier coin?",
+                "answer": "<ul>\n  <li>Divide the 8 coins into three groups: (3, 3, and 2).</li>\n  <li>Weigh the two groups of 3.</li>\n  <li>If they balance, the heavier coin is in the remaining two (weigh one vs. one).</li>\n  <li>If they don't balance, take the heavier group and weigh any two coins from it.</li>\n</ul>"
+            },
+            {
+                "question": "A Texas orange farmer has a giant fruit tree in his orchard. A shop owner calls to ask how many fruits are available for sale. The farmer explains:\n<ul>\n  <li>The tree has 20 branches.</li>\n  <li>Each branch has 15 limbs.</li>\n  <li>Each limb has 8 stems, and each stem grows one fruit.</li>\n</ul>\nHow many apples can the farmer sell?",
+                "answer": "None-this tree grows oranges, not apples!"
+            },
+            {
+                "question": "A wealthy man leaves an unusual challenge for his two sons in his will. He declares that they must race their cars, but the one who reaches the finish line last will inherit his entire fortune. Determined to win, both brothers drive as slowly as possible, refusing to cross the finish line. Frustrated, they seek advice from a wise mechanic. After hearing just a few words, they immediately speed toward the finish line. What did the mechanic tell them?",
+                "answer": "Switch cars."
+            },
+            {
+                "question": "A millionaire hides $1 million inside one of ten identical safes. A thief can open only one safe. . The millionaire writes a clue that is intended to mislead the thief. What does the clue say?",
+                "answer": "The money is in the safe next to this one.",
+                "explanation": "If the thief believes the clue, they keep searching endlessly without ever opening the correct safe."
+            },
+            {
+                "question": "A thief steals three paintings, each worth $1 million, and hides them in three locations. The authorities catch him and demand to know where they are. The thief lies one-third of the time and tells the truth two-thirds of the time. What question should they ask to ensure they find at least one painting?",
+                "answer": "If we asked you tomorrow, where would you say the first painting is?",
+                "explanation": "Since the thief lies only one-third of the time, the second answer is always truthful."
+            },
+            {
+                "question": "You have two barrels of liquid: one is half full of wine, the other is half full of water. You pour half of one barrel into the other and then return the same amount back. Which barrel contains more of its original liquid?",
+                "answer": "Both barrels contain an equal mix.",
+                "explanation": "After transferring and returning liquid, both barrels end up with the same proportion of wine and water."
+            }
+        ]
+    },
+    {
+        "category": "Short",
+        "riddles": [
+            {
+                "question": "Why was the stadium so cool?",
+                "answer": "Because it was full of fans!"
+            },
+            {
+                "question": "Why do cows make great musicians?",
+                "answer": "Because they have good mooo-sic sense!"
+            },
+            {
+                "question": "Why do chickens avoid comedians?",
+                "answer": "They don't want to be roasted!"
+            },
+            {
+                "question": "Why did the banker switch careers?",
+                "answer": "He lost interest!"
+            },
+            {
+                "question": "Why was the clock nervous at its first job?",
+                "answer": "Because it was second-hand!"
+            },
+            {
+                "question": "Why do cows make great dancers?",
+                "answer": "Because they have the best mooooves!"
+            },
+            {
+                "question": "Why do giraffes make bad spies?",
+                "answer": "Because they stick their neck out too much!"
+            },
+            {
+                "question": "What did the ocean say to the beach?",
+                "answer": "Nothing, it just waved!"
+            },
+            {
+                "question": "Why don't pirates ever play cards?",
+                "answer": "Because they're always standing on the deck!"
+            },
+            {
+                "question": "Why don't vampires like jokes?",
+                "answer": "Because they suck at them!"
+            },
+            {
+                "question": "Why don't candles ever argue?",
+                "answer": "Because they always melt under pressure!"
+            },
+            {
+                "question": "Why do candles love birthday parties?",
+                "answer": "Because they get to be the center of attention!"
+            },
+            {
+                "question": "Why do calendars make great employees?",
+                "answer": "Because they're so well-organized!"
+            },
+            {
+                "question": "Why did the door refuse to close?",
+                "answer": "Because it was unhinged!"
+            },
+            {
+                "question": "Why did the pencil fail the test?",
+                "answer": "It didn't have a point!"
+            },
+            {
+                "question": "Why don't fish like computers?",
+                "answer": "They're afraid of the net!"
+            },
+            {
+                "question": "Why did the tomato start a band?",
+                "answer": "Because it wanted to ketchup on the music scene!"
+            },
+            {
+                "question": "Why did the microwave break up with the fridge?",
+                "answer": "It felt things were getting too cold!"
+            },
+            {
+                "question": "What do you call a sleeping bull?",
+                "answer": "A bulldozer!"
+            },
+            {
+                "question": "Why don't pencils ever get lost?",
+                "answer": "Because they always draw attention!"
+            },
+            {
+                "question": "Why did the refrigerator apply for a job?",
+                "answer": "It wanted to chill at work!"
+            },
+            {
+                "question": "Why did the cat sit on the newspaper?",
+                "answer": "It wanted to be on the front page!"
+            },
+            {
+                "question": "Why do waiters make great detectives?",
+                "answer": "Because they always serve up clues!"
+            },
+            {
+                "question": "Why don't printers ever argue?",
+                "answer": "Because they always stay on paper!"
+            },
+            {
+                "question": "Why was the broom the best student?",
+                "answer": "Because it always swept through tests!"
+            },
+            {
+                "question": "Why did the burglar take a shower?",
+                "answer": "To make a clean getaway!"
+            },
+            {
+                "question": "Why did the lettuce win the race?",
+                "answer": "Because it was ahead!"
+            },
+            {
+                "question": "Why did the detective bring a pencil to the crime scene?",
+                "answer": "To draw conclusions!"
+            },
+            {
+                "question": "Why do bicycles never tell secrets?",
+                "answer": "Because they always spill the wheels!"
+            },
+            {
+                "question": "Why don't candles ever gossip?",
+                "answer": "Because they don't want to spread the flame!"
+            },
+            {
+                "question": "Why do skeletons stay so calm?",
+                "answer": "Nothing gets under their skin!"
+            },
+            {
+                "question": "Why was the broom late?",
+                "answer": "It swept in!"
+            },
+            {
+                "question": "Why do cows never have money?",
+                "answer": "Because the farmers milk them dry!"
+            },
+            {
+                "question": "What do you call a pile of cats?",
+                "answer": "A meow-tain!"
+            },
+            {
+                "question": "Why did the cookie go to the doctor?",
+                "answer": "Because it felt crummy!"
+            },
+            {
+                "question": "Why did the math teacher love parks?",
+                "answer": "Because of all the natural logs!"
+            },
+            {
+                "question": "Why did the man put his money in the blender?",
+                "answer": "He wanted liquid assets!"
+            },
+            {
+                "question": "Why do trees take naps?",
+                "answer": "Because they're rooted in place!"
+            },
+            {
+                "question": "Why was the belt arrested?",
+                "answer": "For holding up pants!"
+            },
+            {
+                "question": "Why did the grape refuse to fight?",
+                "answer": "It didn't want to get crushed!"
+            },
+            {
+                "question": "What do you call an alligator in a vest?",
+                "answer": "An investigator!"
+            },
+            {
+                "question": "Why did the football coach go to the bank?",
+                "answer": "To get his quarterback!"
+            },
+            {
+                "question": "Why don't skeletons like roller coasters?",
+                "answer": "Because they don't have the stomach for it!"
+            },
+            {
+                "question": "Why do ducks make great detectives?",
+                "answer": "They always quack the case!"
+            },
+            {
+                "question": "Why don't mountains ever get tired?",
+                "answer": "Because they peak performance!"
+            },
+            {
+                "question": "Why do bakers work so hard?",
+                "answer": "Because they knead the dough!"
+            },
+            {
+                "question": "What kind of shoes do ninjas wear?",
+                "answer": "Sneakers!"
+            },
+            {
+                "question": "What did the big flower say to the little flower?",
+                "answer": "\"Hey bud, what's up?\""
+            }
+        ]
+    },
+    {
+        "category": "Math",
+        "riddles": [
+            {
+                "question": "Why is six afraid of seven?",
+                "answer": "Because seven eight (ate) nine!"
+            },
+            {
+                "question": "Why did the math professor get kicked out of the bakery?",
+                "answer": "Because he kept talking about Pi!"
+            },
+            {
+                "question": "Why was the equal sign so humble?",
+                "answer": "Because it knew it wasn't less than or greater than anyone!"
+            },
+            {
+                "question": "Why do plants hate math?",
+                "answer": "Because it gives them square roots!"
+            },
+            {
+                "question": "Why did the number 7 eat 9?",
+                "answer": "Because you're supposed to eat three squared meals a day!"
+            },
+            {
+                "question": "Why did the zero break up with the eight?",
+                "answer": "Because it couldn't handle its curves!"
+            },
+            {
+                "question": "Why did the mathematician spill all his food?",
+                "answer": "Because he couldn't find the table of contents!"
+            },
+            {
+                "question": "What do you call a number that can't sit still?",
+                "answer": "A roamin' numeral!"
+            },
+            {
+                "question": "Why was the algebra book always stressed?",
+                "answer": "It had too many variables to deal with!"
+            },
+            {
+                "question": "Why did the mathematician name his dog \"C\"?",
+                "answer": "Because C was the limit of his patience!"
+            },
+            {
+                "question": "Why was the obtuse angle always so annoying?",
+                "answer": "Because it was never right!"
+            },
+            {
+                "question": "Why did the circle feel so dizzy?",
+                "answer": "Because it was going around in circles!"
+            },
+            {
+                "question": "Why did the cylinder refuse to attend the geometry party?",
+                "answer": "Because it felt too hollow inside!"
+            },
+            {
+                "question": "What's a mathematician's favorite place to relax?",
+                "answer": "A tangent!"
+            },
+            {
+                "question": "Why did the student refuse to count to 11?",
+                "answer": "Because it was an odd request!"
+            },
+            {
+                "question": "Why did Pi refuse to play hide and seek?",
+                "answer": "Because it always goes on forever!"
+            },
+            {
+                "question": "Why did the statistician break up with the probability expert?",
+                "answer": "Because the odds weren't in their favor!"
+            },
+            {
+                "question": "Why do fractions always argue?",
+                "answer": "Because they have too many divisions!"
+            },
+            {
+                "question": "If today is Tuesday, what will be the day 100 days from now?",
+                "answer": "Thursday (100 ÷ 7 = 14 remainder 2, so two days ahead of Tuesday)."
+            },
+            {
+                "question": "A man walks 3 km north, then 3 km east, then 3 km south, and ends up where he started. Where is he?",
+                "answer": "Near the North Pole."
+            },
+            {
+                "question": "How many times can you subtract 10 from 100?",
+                "answer": "Once (after that, you subtract from 90)."
+            },
+            {
+                "question": "What comes next in this sequence? 1, 4, 9, 16, 25, _?",
+                "answer": "36 (These are square numbers: 1<sup>2</sup>, 2<sup>2</sup>, 3<sup>2</sup>, 4<sup>2</sup>, 5<sup>2</sup>, 6<sup>2</sup>)."
+            },
+            {
+                "question": "A rooster lays an egg on top of a slanted roof. Which way does it roll?",
+                "answer": "Roosters don't lay eggs!"
+            },
+            {
+                "question": "A pound of feathers and a pound of bricks fall from a table. Which hits the ground first?",
+                "answer": "They weigh the same, so they fall at the same speed!"
+            },
+            {
+                "question": "If you divide 30 by 1/2 and add 10, what do you get?",
+                "answer": "70 (Dividing by 1/2 is the same as multiplying by 2)."
+            },
+            {
+                "question": "If it takes six men six hours to dig six holes, how long does it take one man to dig half a hole?",
+                "answer": "There's no such thing as half a hole!"
+            },
+            {
+                "question": "How many months have 28 days?",
+                "answer": "All 12 months have at least 28 days!"
+            },
+            {
+                "question": "A basketball team scored 97 points in a game but didn't make a single basket. How is this possible?",
+                "answer": "They only made free throws and three-pointers!"
+            },
+            {
+                "question": "A horse was tied to a rope 5 feet long, and there was a bale of hay 10 feet away. How did the horse eat the hay?",
+                "answer": "The rope wasn't tied to anything!"
+            },
+            {
+                "question": "How much dirt is in a hole that is 5 feet deep, 4 feet wide, and 6 feet long?",
+                "answer": "None! It's a hole!"
+            },
+            {
+                "question": "If you multiply me by myself and subtract me, you get 0. What number am I?",
+                "answer": "1 (1*1 - 1 = 0)."
+            },
+            {
+                "question": "I add five to nine and get two. The answer is correct, but how?",
+                "answer": "When you add 5 hours to 9 o'clock, you get 2 o'clock."
+            },
+            {
+                "question": "If you're running a race and you pass the person in second place, what place are you in?",
+                "answer": "Second place."
+            },
+            {
+                "question": "A man buys a dozen eggs and breaks three. How many eggs does he have left?",
+                "answer": "12 eggs (He still has all the eggs; some are just broken)."
+            },
+            {
+                "question": "A father is 50 years old, and his son is 25. How many years ago was the father exactly three times his son's age?",
+                "answer": "5 years ago (Father was 45, son was 15)."
+            },
+            {
+                "question": "A man was born in 1995 but only celebrated five birthdays by 2023. How is this possible?",
+                "answer": "He was born on February 29th."
+            },
+            {
+                "question": "A man owns a small farm and says his crop yield doubles every day. After 30 days, the field is full. How long did it take to fill half of the field?",
+                "answer": "29 days (because it doubles on the last day)."
+            }
+        ]
+    },
+    {
+        "category": "Word",
+        "riddles": [
+            {
+                "question": "Which five-letter word still sounds the same when you remove its first letter or last letter?",
+                "answer": "Empty"
+            },
+            {
+                "question": "Which word has \"water\" in it but is never wet?",
+                "answer": "Watermelon"
+            },
+            {
+                "question": "What word has \"land\" in it but isn't a location?",
+                "answer": "Landlord"
+            },
+            {
+                "question": "What word has \"hat\" in it but isn't something you wear?",
+                "answer": "Hatch"
+            },
+            {
+                "question": "What word starts with \"B\" and refers to both an animal and a drink?",
+                "answer": "Bear"
+            },
+            {
+                "question": "What's a word you say when you're surprised, and it's spelled the same forwards and backward?",
+                "answer": "Wow"
+            },
+            {
+                "question": "Which seven-letter word becomes a four-letter word when you take away its last three letters?",
+                "answer": "Careful"
+            },
+            {
+                "question": "What word starts with \"C\" ends with \"T\" and is something you often see in meetings?",
+                "answer": "Chart"
+            },
+            {
+                "question": "What word is connected to both money and flavor?",
+                "answer": "Mint"
+            },
+            {
+                "question": "Which word describes both a container and something that can start a fire?",
+                "answer": "Match"
+            },
+            {
+                "question": "What word is spelled the same forwards and backward and can describe behavior?",
+                "answer": "Civic"
+            },
+            {
+                "question": "Which word describes both the movement of a boat and a written record?",
+                "answer": "Log"
+            },
+            {
+                "question": "What word rhymes with \"gold\" and describes age?",
+                "answer": "Old"
+            },
+            {
+                "question": "Which word contains \"ten\" but doesn't refer to the number?",
+                "answer": "Attention"
+            },
+            {
+                "question": "What word has \"ice\" in it but isn't cold?",
+                "answer": "Price"
+            },
+            {
+                "question": "Which word has \"board\" in it but isn't a place you sit on?",
+                "answer": "Blackboard"
+            },
+            {
+                "question": "What word contains \"sun\" but has nothing to do with the weather?",
+                "answer": "Sunday"
+            },
+            {
+                "question": "Which word has \"well\" in it but isn't related to water?",
+                "answer": "Wellness"
+            },
+            {
+                "question": "What word rhymes with \"beach\" and describes a lesson?",
+                "answer": "Teach"
+            },
+            {
+                "question": "What word starts with \"S\" and can refer to both a star and a coin?",
+                "answer": "Silver"
+            },
+            {
+                "question": "Which word has \"port\" in it but isn't a place for ships?",
+                "answer": "Import"
+            },
+            {
+                "question": "What word rhymes with \"fire\" and describes something you wear?",
+                "answer": "Attire"
+            },
+            {
+                "question": "Which word has \"bell\" in it but doesn't ring?",
+                "answer": "Bellhop"
+            },
+            {
+                "question": "What word has \"tree\" in it but isn't found in nature?",
+                "answer": "Street"
+            },
+            {
+                "question": "What word rhymes with \"goal\" and can describe both a game and a type of fish?",
+                "answer": "Sole"
+            },
+            {
+                "question": "What word has \"ship\" in it but doesn't describe a boat?",
+                "answer": "Championship"
+            },
+            {
+                "question": "What word has \"ice\" in it but is usually warm or hot?",
+                "answer": "Spice"
+            },
+            {
+                "question": "What word describes both a bird and an action on social media?",
+                "answer": "Tweet"
+            },
+            {
+                "question": "What word has \"star\" in it but isn't found in the sky?",
+                "answer": "Starter"
+            },
+            {
+                "question": "Which word contains \"key\" but isn't something you use to unlock a door?",
+                "answer": "Monkey"
+            },
+            {
+                "question": "What word has \"pan\" in it but isn't used for cooking?",
+                "answer": "Panorama"
+            }
+        ]
+    },
+    {
+        "category": "Relationship",
+        "riddles": [
+            {
+                "question": "Why do actors always break up?",
+                "answer": "Because they have too many scenes!"
+            },
+            {
+                "question": "Why don't some couples go to the gym?",
+                "answer": "Because some relationships don't work out!"
+            },
+            {
+                "question": "Why did the boyfriend bring a pencil to dinner?",
+                "answer": "Because he wanted to draw her closer!"
+            },
+            {
+                "question": "Why did the chocolate heart melt?",
+                "answer": "Because it was feeling the heat of love!"
+            },
+            {
+                "question": "What do you call a couple of honeybees in love?",
+                "answer": "Buzzmates!"
+            },
+            {
+                "question": "What did the flame say to the candle?",
+                "answer": "You light up my life!"
+            },
+            {
+                "question": "What's a heart's favorite exercise?",
+                "answer": "Love lunges!"
+            },
+            {
+                "question": "Why did the socks get married?",
+                "answer": "Because they were sole-mates!"
+            },
+            {
+                "question": "What's a tomato's favorite romantic movie?",
+                "answer": "You Ketchup My Heart!"
+            },
+            {
+                "question": "What did the door say to the key?",
+                "answer": "You've unlocked my heart!"
+            },
+            {
+                "question": "Why did the car and gas station get along so well?",
+                "answer": "Because they fueled each other's love!"
+            },
+            {
+                "question": "What did the clock say to the calendar?",
+                "answer": "Every moment with you is timeless!"
+            },
+            {
+                "question": "Why did the phone fall in love with WiFi?",
+                "answer": "Because it felt connected!"
+            },
+            {
+                "question": "Why did the keyboard love the mouse?",
+                "answer": "Because they always clicked!"
+            },
+            {
+                "question": "What's the most romantic type of math?",
+                "answer": "Addition, because love always adds up!"
+            },
+            {
+                "question": "Why do relationships grow?",
+                "answer": "Because love is the best fertilizer!"
+            },
+            {
+                "question": "Why did the hairbrush break up with the comb?",
+                "answer": "It felt brushed aside!"
+            },
+            {
+                "question": "Why did the mirror break up with the wall?",
+                "answer": "It needed space to reflect!"
+            },
+            {
+                "question": "Why did the couple bring a ladder to their date?",
+                "answer": "Because they wanted to take their love to the next level!"
+            },
+            {
+                "question": "Why did the pillow and the blanket make a great couple?",
+                "answer": "Because they always kept things cozy!"
+            },
+            {
+                "question": "Why did the husband sit next to his wife all night?",
+                "answer": "Because she was his dream come true!"
+            },
+            {
+                "question": "Why did the lovebird bring an umbrella on a date?",
+                "answer": "In case it started raining kisses!"
+            },
+            {
+                "question": "Why did the heart get a parking ticket?",
+                "answer": "Because it stopped too long at love's signal!"
+            },
+            {
+                "question": "Why did the candle confess its love?",
+                "answer": "Because it was burning with passion!"
+            },
+            {
+                "question": "Why did the couple take a nap together?",
+                "answer": "Because they were dreaming of each other!"
+            },
+            {
+                "question": "Why did the boyfriend bring a life jacket to his date?",
+                "answer": "Because he was drowning in love!"
+            },
+            {
+                "question": "Why did the romantic poet break up?",
+                "answer": "Because words weren't enough anymore!"
+            },
+            {
+                "question": "Why did the strawberry propose to the whipped cream?",
+                "answer": "Because they were berry good together!"
+            },
+            {
+                "question": "Why did the roses feel jealous?",
+                "answer": "Because they saw someone else getting all the love!"
+            }
+        ]
+    },
+    {
+        "category": "Halloween",
+        "riddles": [
+            {
+                "question": "What's a ghost's favorite dessert?",
+                "answer": "I-scream"
+            },
+            {
+                "question": "What kind of music do mummies listen to?",
+                "answer": "Wrap music"
+            },
+            {
+                "question": "Why didn't the skeleton go to the Halloween party?",
+                "answer": "He had no body to go with."
+            },
+            {
+                "question": "What room does a ghost avoid?",
+                "answer": "The living room"
+            },
+            {
+                "question": "What's a monster's favorite bean?",
+                "answer": "A human bean"
+            },
+            {
+                "question": "What do ghosts eat for dinner?",
+                "answer": "Spook-ghetti"
+            },
+            {
+                "question": "Why are ghosts terrible liars?",
+                "answer": "Because you can see right through them."
+            },
+            {
+                "question": "What do you call a skeleton who won't work?",
+                "answer": "Lazy bones"
+            },
+            {
+                "question": "What do witches put in their hair?",
+                "answer": "Scare-spray"
+            },
+            {
+                "question": "What does a skeleton say before eating?",
+                "answer": "Bone appetite"
+            },
+            {
+                "question": "Why do witches wear name tags?",
+                "answer": "So they know which witch is which."
+            },
+            {
+                "question": "What kind of fruit do ghosts love?",
+                "answer": "Boo-berries"
+            },
+            {
+                "question": "What is a ghost's favorite ride at the carnival?",
+                "answer": "The roller-ghoster"
+            },
+            {
+                "question": "What did the ghost say to the vampire?",
+                "answer": "You suck."
+            },
+            {
+                "question": "Why did Dracula take a math class?",
+                "answer": "To improve his Count."
+            },
+            {
+                "question": "What does a skeleton order at a restaurant?",
+                "answer": "Spare ribs"
+            },
+            {
+                "question": "Why didn't the vampire attack Taylor Swift?",
+                "answer": "Because she had bad blood."
+            },
+            {
+                "question": "What is a vampire's favorite type of ship?",
+                "answer": "A blood vessel"
+            },
+            {
+                "question": "Why did the ghost go to therapy?",
+                "answer": "To get over its haunting past."
+            },
+            {
+                "question": "Why don't witches wear flat shoes?",
+                "answer": "They need to stay on their toes."
+            },
+            {
+                "question": "What's a ghost's favorite ride?",
+                "answer": "The Boo-merang"
+            },
+            {
+                "question": "Why did the werewolf stop dieting?",
+                "answer": "He couldn't stop howling at the fridge."
+            },
+            {
+                "question": "What's a vampire's favorite candy?",
+                "answer": "Suckers"
+            },
+            {
+                "question": "Why do witches fly on broomsticks?",
+                "answer": "Because vacuum cleaners are too heavy."
+            },
+            {
+                "question": "What do you call two witches sharing an apartment?",
+                "answer": "Broom-mates"
+            },
+            {
+                "question": "Why don't skeletons play music in church?",
+                "answer": "They don't have the organs."
+            },
+            {
+                "question": "What do mummies say when they're happy?",
+                "answer": "\"That's a wrap!\""
+            },
+            {
+                "question": "What did the ghost's date say after dinner?",
+                "answer": "\"I had a boo-tiful time.\""
+            },
+            {
+                "question": "What's a vampire's favorite holiday?",
+                "answer": "Fangsgiving"
+            },
+            {
+                "question": "What do you call a skeleton who tells lies?",
+                "answer": "A phony bone"
+            }
+        ]
+    },
+    {
+        "category": "Christmas",
+        "riddles": [
+            {
+                "question": "What do you call a kid who doesn't believe in Santa?",
+                "answer": "A rebel without a Claus"
+            },
+            {
+                "question": "Why does Santa go down chimneys on Christmas Eve?",
+                "answer": "Because it soot's him"
+            },
+            {
+                "question": "Why did Rudolph get a bad report card?",
+                "answer": "Because he went down in history"
+            },
+            {
+                "question": "What kind of photos do elves take?",
+                "answer": "Elfies"
+            },
+            {
+                "question": "What do you call an obnoxious reindeer?",
+                "answer": "Rude-olph"
+            },
+            {
+                "question": "Why did Santa hire a detective?",
+                "answer": "To track down the missing \"Claus.\""
+            },
+            {
+                "question": "What do you call a broke Santa Claus?",
+                "answer": "Saint Nickel-less"
+            },
+            {
+                "question": "What does Mrs. Claus say to Santa when the weather is bad?",
+                "answer": "\"It's rain, dear.\""
+            },
+            {
+                "question": "What kind of ball doesn't bounce?",
+                "answer": "A snowball"
+            },
+            {
+                "question": "Why did the ornaments refuse to hang out with the tree?",
+                "answer": "Because it was acting shady"
+            },
+            {
+                "question": "Why don't snowmen ever get into arguments?",
+                "answer": "Because they just let it slide"
+            },
+            {
+                "question": "What's a reindeer's favorite game?",
+                "answer": "Truth or deer"
+            },
+            {
+                "question": "What kind of motorcycle does Santa ride?",
+                "answer": "A Holly Davidson"
+            },
+            {
+                "question": "What did the snowman say to the sun?",
+                "answer": "\"I'm having a meltdown!\""
+            },
+            {
+                "question": "Why was the elf so good at grammar?",
+                "answer": "He had good \"elf-esteem.\""
+            },
+            {
+                "question": "What do you call a shark that delivers presents on Christmas?",
+                "answer": "Santa Jaws"
+            },
+            {
+                "question": "Why did Santa go to the doctor?",
+                "answer": "Because he had Claus-trophobia"
+            },
+            {
+                "question": "What did the reindeer say to the snowman on Christmas Eve?",
+                "answer": "\"Chill out, buddy!\""
+            },
+            {
+                "question": "Why don't Christmas trees ever win competitions?",
+                "answer": "They always get cut down"
+            },
+            {
+                "question": "Why do reindeer always hang out with elves?",
+                "answer": "Because they love flying together"
+            },
+            {
+                "question": "What do snowmen eat for lunch on Christmas Day?",
+                "answer": "Iceburg-ers"
+            },
+            {
+                "question": "What do you get if you cross a Christmas tree with an iPad?",
+                "answer": "A pine-apple tablet"
+            },
+            {
+                "question": "What do you call Santa when he loses his pants?",
+                "answer": "Saint Knick-less"
+            },
+            {
+                "question": "Why didn't the Christmas turkey eat dessert?",
+                "answer": "It was already stuffed"
+            },
+            {
+                "question": "Why did the snowflake turn into a detective?",
+                "answer": "It was on a mission to solve a melt-tery"
+            },
+            {
+                "question": "How do elves respond to a compliment?",
+                "answer": "\"Thanks, I'm pretty elf-tastic!\""
+            },
+            {
+                "question": "What does Santa do when his sleigh breaks down?",
+                "answer": "He calls for rein-deer support"
+            },
+            {
+                "question": "Why did the elf become a chef?",
+                "answer": "He wanted to cook up some holiday magic"
+            },
+            {
+                "question": "Why do Christmas trees always get in trouble?",
+                "answer": "They have too many shady connections"
+            },
+            {
+                "question": "Why was the Christmas star so popular?",
+                "answer": "It had stellar reviews"
+            }
+        ]
+    },
+    {
+        "category": "Bible",
+        "riddles": [
+            {
+                "question": "Who lived 969 years, the longest recorded in the Bible?",
+                "answer": "Methuselah"
+            },
+            {
+                "question": "Who walked with God and was taken to heaven without dying?",
+                "answer": "Enoch"
+            },
+            {
+                "question": "Who was swallowed by a great fish and got a second chance after three days?",
+                "answer": "Jonah"
+            },
+            {
+                "question": "Who was the king famous for his wisdom and for building the first temple?",
+                "answer": "Solomon"
+            },
+            {
+                "question": "Where did Moses receive the Ten Commandments?",
+                "answer": "Mount Sinai"
+            },
+            {
+                "question": "Who turned water into wine at a wedding?",
+                "answer": "Jesus"
+            },
+            {
+                "question": "Which man was thrown into a lion's den but came out unharmed?",
+                "answer": "Daniel"
+            },
+            {
+                "question": "Who had incredible strength but lost it when his hair was cut?",
+                "answer": "Samson"
+            },
+            {
+                "question": "Which sea parted to help the Israelites escape from Egypt?",
+                "answer": "The Red Sea"
+            },
+            {
+                "question": "Who became the Queen of Persia and saved her people?",
+                "answer": "Esther"
+            },
+            {
+                "question": "What was the ark called that carried the tablets of the law?",
+                "answer": "The Ark of the Covenant"
+            },
+            {
+                "question": "Where was Jesus crucified?",
+                "answer": "Golgotha"
+            },
+            {
+                "question": "Who was sent by God to free the Israelites and deliver the Ten Commandments?",
+                "answer": "Moses"
+            },
+            {
+                "question": "Who wrestled with an angel and had his name changed to Israel?",
+                "answer": "Jacob"
+            },
+            {
+                "question": "What food fell from heaven to feed the Israelites in the wilderness?",
+                "answer": "Manna"
+            },
+            {
+                "question": "Which brother sold his younger brother into slavery?",
+                "answer": "Judah"
+            },
+            {
+                "question": "Who was struck blind on the road to Damascus but later became a great preacher?",
+                "answer": "Paul"
+            },
+            {
+                "question": "Which river did Jesus get baptized in?",
+                "answer": "The Jordan River"
+            },
+            {
+                "question": "Who was taken to heaven in a chariot of fire?",
+                "answer": "Elijah"
+            },
+            {
+                "question": "Who interpreted Pharaoh's dreams and became a ruler in Egypt?",
+                "answer": "Joseph"
+            },
+            {
+                "question": "Where did Elijah challenge the prophets of Baal?",
+                "answer": "Mount Carmel"
+            },
+            {
+                "question": "Which body of water was turned into blood during the first plague in Egypt?",
+                "answer": "The Nile River"
+            },
+            {
+                "question": "Which sea did Jesus calm during a storm?",
+                "answer": "The Sea of Galilee"
+            },
+            {
+                "question": "Which city was the location of Jesus's first miracle?",
+                "answer": "Cana"
+            },
+            {
+                "question": "Who was the king that threw Daniel into the lion's den?",
+                "answer": "King Darius"
+            },
+            {
+                "question": "Who was the wife of Isaac and the mother of two nations?",
+                "answer": "Rebekah"
+            },
+            {
+                "question": "Which king sought to kill the infant Jesus?",
+                "answer": "King Herod"
+            },
+            {
+                "question": "What was the meal called that Jesus shared with His disciples before His crucifixion?",
+                "answer": "The Last Supper"
+            },
+            {
+                "question": "Which angel told Mary she would give birth to Jesus?",
+                "answer": "Gabriel"
+            },
+            {
+                "question": "Who was the son of Abraham, born to him and Sarah in their old age?",
+                "answer": "Isaac"
+            },
+            {
+                "question": "Which city was destroyed by fire and brimstone because of its wickedness?",
+                "answer": "Sodom"
+            },
+            {
+                "question": "Who was the youngest of Jacob's 12 sons and greatly loved by his father?",
+                "answer": "Benjamin"
+            },
+            {
+                "question": "Which group of people heard angels announce the birth of Jesus?",
+                "answer": "The shepherds of Bethlehem"
+            },
+            {
+                "question": "Where was Paul shipwrecked during his journey?",
+                "answer": "Malta"
+            },
+            {
+                "question": "Which judge defeated the Midianites with just 300 men?",
+                "answer": "Gideon"
+            },
+            {
+                "question": "Which king was eaten by worms because he didn't give glory to God?",
+                "answer": "Herod Agrippa"
+            },
+            {
+                "question": "Where did Ruth glean grain and meet her future husband?",
+                "answer": "Boaz's field"
+            },
+            {
+                "question": "Who was the brother of Moses and the first high priest of Israel?",
+                "answer": "Aaron"
+            },
+            {
+                "question": "Which Roman governor sentenced Jesus to be crucified?",
+                "answer": "Pontius Pilate"
+            },
+            {
+                "question": "Who anointed David as king?",
+                "answer": "Samuel"
+            },
+            {
+                "question": "What kind of tree did Zacchaeus climb to see Jesus?",
+                "answer": "A sycamore tree"
+            },
+            {
+                "question": "What is the first book of the New Testament?",
+                "answer": "Matthew"
+            }
+        ]
+    },
+    {
+        "category": "Thanksgiving",
+        "riddles": [
+            {
+                "question": "Why don't turkeys like playing hide-and-seek?",
+                "answer": "They always get caught in the stuffing."
+            },
+            {
+                "question": "What do you call a running turkey?",
+                "answer": "Fast food."
+            },
+            {
+                "question": "What do you call a turkey who tells jokes?",
+                "answer": "A comedi-hen."
+            },
+            {
+                "question": "What do you call a turkey after Thanksgiving?",
+                "answer": "Leftovers."
+            },
+            {
+                "question": "Why do turkeys never get along with chickens?",
+                "answer": "They're always talking turkey."
+            },
+            {
+                "question": "What happens if you divide the circumference of a pumpkin by its diameter?",
+                "answer": "You get pumpkin pi."
+            },
+            {
+                "question": "Why didn't the turkey finish its dessert?",
+                "answer": "It was already stuffed."
+            },
+            {
+                "question": "What smells the best at Thanksgiving dinner?",
+                "answer": "Your nose."
+            },
+            {
+                "question": "Why was the turkey put in jail?",
+                "answer": "It was caught trying to break out of the oven."
+            },
+            {
+                "question": "Why did the sweet potato refuse to join the dinner table?",
+                "answer": "It didn't want to be mashed."
+            },
+            {
+                "question": "Why do Thanksgiving leftovers always win at board games?",
+                "answer": "Because they have great re-'turns.'"
+            },
+            {
+                "question": "Why do turkeys gobble?",
+                "answer": "Because they never learned table manners."
+            },
+            {
+                "question": "Why did the mashed potatoes avoid the gravy?",
+                "answer": "They didn't want to get stuck in a sticky situation."
+            },
+            {
+                "question": "What did the turkey say to the corn?",
+                "answer": "\"Quit stalking me!\""
+            },
+            {
+                "question": "Why did the apple pie go to therapy?",
+                "answer": "It had too many layers of feelings."
+            },
+            {
+                "question": "Why did the turkey cross the road twice?",
+                "answer": "To prove it wasn't chicken."
+            },
+            {
+                "question": "Why do turkeys love Thanksgiving parades?",
+                "answer": "They love marching to their own drumstick."
+            },
+            {
+                "question": "What do you call a turkey who loves crossword puzzles?",
+                "answer": "A word gobbler."
+            },
+            {
+                "question": "What's a turkey's favorite sport?",
+                "answer": "Fowl play."
+            },
+            {
+                "question": "Why did the turkey skip Thanksgiving?",
+                "answer": "It already had too much on its plate."
+            },
+            {
+                "question": "Why did the gravy run away?",
+                "answer": "It saw the mashed potatoes coming."
+            },
+            {
+                "question": "What's the best dance for Thanksgiving dinner?",
+                "answer": "The turkey trot."
+            },
+            {
+                "question": "Why was the turkey bad at poker?",
+                "answer": "It always gobbled its secrets."
+            },
+            {
+                "question": "Why did the Thanksgiving table tell a story?",
+                "answer": "It had plenty of tales to share."
+            },
+            {
+                "question": "Why did the pie have trust issues?",
+                "answer": "It felt everyone wanted a piece of it."
+            },
+            {
+                "question": "Why do potatoes love Thanksgiving?",
+                "answer": "They always mash it up."
+            },
+            {
+                "question": "Why did the turkey fail math class?",
+                "answer": "Too many fowl calculations."
+            },
+            {
+                "question": "Why did the gravy get into trouble?",
+                "answer": "It was stirring up drama."
+            }
+        ]
+    },
+    {
+        "category": "Scavenger Hunt",
+        "riddles": [
+            {
+                "question": "Falls from the sky without a sound, lands on earth but won't be found. What is it?",
+                "answer": "Raindrop"
+            },
+            {
+                "question": "Warm and soft, a comforting sight, pulled up close on a chilly night. What is it?",
+                "answer": "Blanket"
+            },
+            {
+                "question": "In the kitchen, sharp and bright, use it wrong and feel its bite. What is it?",
+                "answer": "Knife"
+            },
+            {
+                "question": "Sticky, strong, and thin or wide, used to hold things side by side. What is it?",
+                "answer": "Tape"
+            },
+            {
+                "question": "Soft and plush but never eats, holds weight beneath where someone sits. What is it?",
+                "answer": "Couch cushions"
+            },
+            {
+                "question": "Holds things tight, though has no hands, found in homes, work, and bands. What is it?",
+                "answer": "Rubber band"
+            },
+            {
+                "question": "Helps keep sunlight out of sight but can be opened for more light. What is it?",
+                "answer": "Window"
+            },
+            {
+                "question": "Two hands move but never clap, always ticking without a nap. Where should you look?",
+                "answer": "Clock"
+            },
+            {
+                "question": "Stories are hidden inside a cover, flip the pages to discover. What is it?",
+                "answer": "Book"
+            },
+            {
+                "question": "A perfect spot to take a seat, used when eating something sweet. What are you looking for?",
+                "answer": "Chair"
+            },
+            {
+                "question": "When darkness falls, brightness flows, flip a switch and the glow shows. What is it?",
+                "answer": "Lamp"
+            },
+            {
+                "question": "A loud beep wakes the day, making sure dreams don't stay. What is it?",
+                "answer": "Alarm clock"
+            },
+            {
+                "question": "Standing strong with four straight legs, holding plates, glasses, and breakfast eggs. What is it?",
+                "answer": "Dining table"
+            },
+            {
+                "question": "Step inside and turn the knob, water flows to finish the job. What is being used?",
+                "answer": "Shower"
+            },
+            {
+                "question": "Rain makes things hard to see, moving back and forth helps clear debris. What helps in this case?",
+                "answer": "Windshield wipers"
+            },
+            {
+                "question": "Press the keys to hear a tune, black and white create a musical boon. Where will you find it?",
+                "answer": "Piano"
+            },
+            {
+                "question": "The numbers glow both day and night, keeping time in a way that's bright. What are you looking for?",
+                "answer": "Digital clock"
+            },
+            {
+                "question": "Water runs when the handle turns, washing hands is what it earns. What is it?",
+                "answer": "Sink"
+            },
+            {
+                "question": "Used for baking, broiling too, makes a meal that's hot for you. Where does this happen?",
+                "answer": "Oven"
+            },
+            {
+                "question": "A place for remotes, books, and tea, right next to the couch it will be. What is it?",
+                "answer": "Coffee table"
+            },
+            {
+                "question": "Rolls around to clean the floor, picking up dust forevermore. What is it?",
+                "answer": "Vacuum cleaner"
+            },
+            {
+                "question": "Cubes of ice are waiting inside, keeping drinks cool as they glide. What is it?",
+                "answer": "Ice tray"
+            },
+            {
+                "question": "Books stand tall in perfect rows, waiting for hands to turn and close. What is it?",
+                "answer": "Bookshelf"
+            },
+            {
+                "question": "Jackets and coats hang in place, waiting near the door with grace. What is it?",
+                "answer": "Coat rack"
+            },
+            {
+                "question": "No buttons, no keys, but has a screen, sit in front of it and sights are seen. What is it?",
+                "answer": "Television"
+            },
+            {
+                "question": "Blades keep moving, round and round, cooling rooms without a sound. What is it?",
+                "answer": "Ceiling fan"
+            },
+            {
+                "question": "Used for travel, packed with care, carried along from here to there. What is being used?",
+                "answer": "Suitcase"
+            },
+            {
+                "question": "Rings when pressed, alerts the door, heard inside and nothing more. What is it?",
+                "answer": "Doorbell"
+            },
+            {
+                "question": "Measures warmth and keeps things right, showing numbers in day and night. What is it?",
+                "answer": "Thermostat"
+            },
+            {
+                "question": "Hanging high upon the wall, showing numbers big and small. What is it?",
+                "answer": "Wall clock"
+            },
+            {
+                "question": "Spinning fast or spinning slow, makes things clean with water's flow. What is it?",
+                "answer": "Washing machine"
+            },
+            {
+                "question": "Grows smaller with each use, keeps hands clean without excuse. What is it?",
+                "answer": "Bar of soap"
+            },
+            {
+                "question": "Twisting left or twisting right, lets water flow or keeps it tight. What is it?",
+                "answer": "Faucet"
+            },
+            {
+                "question": "Used each night but never leaves, bringing comfort, rest, and dreams. What is it?",
+                "answer": "Bed"
+            },
+            {
+                "question": "Tells directions, shows the way, guides the driver every day. What is it?",
+                "answer": "GPS"
+            },
+            {
+                "question": "Years go by but never down, always rising in every town. What is it?",
+                "answer": "Age"
+            },
+            {
+                "question": "Cleans the mess with just one pull, found in kitchens, made of roll. What is it?",
+                "answer": "Paper towel roll"
+            }
+        ]
+    }
+]

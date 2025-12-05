@@ -1,0 +1,16 @@
+<!--
+	Use ` | safe` to allow html tages within the text string.
+	https://mozilla.github.io/nunjucks/templating.html#autoescaping
+-->
+<div id="riddles">
+	{% if showCategory %}
+		<div class="category"><b>{{ category | safe }}</b></div>
+	{% endif %}
+	{% if showQuestion %}
+		<div class="question"><b>Question: </b>{{ question | safe }}</div>
+	{% endif %}
+	{% if showAnswer %}
+		<div class="answer"><b>Answer: </b>{{ answer | safe }}</div>
+	{% endif %}
+</div>
+
